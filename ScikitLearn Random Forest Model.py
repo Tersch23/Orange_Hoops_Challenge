@@ -8,8 +8,9 @@ import numpy as np
 import os
 import matplotlib.pyplot as plt
 import joblib
+
 # set working directory
-os.chdir()
+os.chdir(r"C:\Users\Owner\OneDrive - Syracuse University\Orange Hoops Data Challenge")
 
 # bring data in
 file_path = 'pbp_updated.csv'  # Update with the correct file path
