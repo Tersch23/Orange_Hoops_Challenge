@@ -6,7 +6,7 @@ A machine learning project built for the Syracuse University Orange Hoops Data S
 
 We defined "clutch" as high-stakes moments in the last five minutes of a close game, then built a model to predict which player gives a team the best chance of converting under pressure.
 
-![Clutch Shot Definition](assets/Clutch%20Shot%20Definition.png)
+![Clutch Shot Definition](clutch_definition.png)
 
 ## Approach
 
@@ -17,7 +17,7 @@ We defined "clutch" as high-stakes moments in the last five minutes of a close g
 
 ## Model Performance
 
-![Model Accuracy](assets/model_accuracy.png)
+![Model Accuracy](model_accuracy.png)
 
 - **85% accuracy** across 211,000 shots
 - 85% precision on both makes and misses
@@ -25,17 +25,17 @@ We defined "clutch" as high-stakes moments in the last five minutes of a close g
 
 ## Feature Importance
 
-![Feature Importance](assets/feature_importance.png)
+![Feature Importance](feature_importance.png)
 
 ## Key Findings — Syracuse University
 
 **Maliq Brown** emerged as the top candidate for game-deciding two-point shots.
 
-![Maliq Brown Shooting Distributions](assets/Maliq%20Brown%20Shooting%20Distributions.png)
+![Maliq Brown Shooting Distributions](maliq_brown.png)
 
 **Chris Bell** led the team in 3P% during clutch moments, excelling in high-pressure three-point scenarios.
 
-![Chris Bell Shooting Distributions](assets/Chris%20Bell%20Shooting%20Distributions.png)
+![Chris Bell Shooting Distributions](chris_bell.png)
 
 ## Tech Stack
 
@@ -56,6 +56,6 @@ We defined "clutch" as high-stakes moments in the last five minutes of a close g
 
 - Jacob VonTersch — [@Tersch23](https://github.com/Tersch23)
 - Evan Vassilovski — [@evanvassilovski](https://github.com/evanvassilovski)
-- Jack A
+- Jack Alecia
 
 *Syracuse University iSchool — November 2024*
